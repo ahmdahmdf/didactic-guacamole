@@ -1,0 +1,5 @@
+بعد فك الضغط شغّل: flutter create --platforms=android .
+ثم flutter pub get
+ثم flutter run
+
+ملاحظة: مجلد android هنا إرشادي فقط؛ Flutter يولّد ملفات المنصة حسب إصدار Flutter المثبت لديك.
